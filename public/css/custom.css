@@ -1,0 +1,203 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #FFFFFF;
+}
+
+.bg-navbar {
+	background-color: #0069A3;
+}
+
+h1 {
+	font-size: 35px;
+	color: #4B5458;
+	font-family: 'Bitter', serif;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.form-control {
+	border-radius: 8px;
+	margin: 0px auto;	
+	width: 372px;
+}
+
+.prueba {
+	border-radius: 8px;
+	margin: 0px auto;	
+}
+
+
+.btn {
+	border-radius: 8px;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px auto;
+	opacity: 0.9;
+	transition: all 0.25s ease-in;
+	width: 58%;
+}
+
+.btn:hover {
+	color: #fff;
+	opacity: 1;
+	transform: scale(1.02) translateY(-2px);
+}
+
+.btn-login {
+	color: #fff;
+	background-color: #FDD61C;
+}
+.btn-register {
+	color: #fff;
+	background-color: #FDD61C;
+}
+.btn-inscrito {
+	color: #fff;
+	background-color: #3085d6;
+}
+.btn-cancel {
+	color: #fff;
+	background-color: #0D0D0D;
+}
+
+.btn-module {
+	color: black;
+	background-color: #0069A3;
+	padding: 20px;
+
+}
+
+.btn-module:hover {
+	color: black
+
+}
+
+.btn-module img {
+	margin-left: -80px;
+
+}
+
+.btn-module strong {
+	font-size: 1.2em;
+	top: 40px; left: 205px;
+}
+
+.btn-module2 {
+	color: black;
+	background-color: #fff;
+	padding: 20px;
+
+}
+
+.btn-module2:hover {
+	color: black
+
+}
+
+.btn-module2 img {
+	margin-left: -12px;
+
+}
+
+.btn-module2 strong {
+	font-size: 1.2em;
+	top: 40px; left: 205px;
+}
+
+
+a{
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+a strong {
+	color: #55D9C1;
+
+}
+
+.btn.btn-sm {
+	width: 50px;
+}
+
+.btn-actions {
+	color: #2B6D61 !important;
+}
+.letter{
+	color: white;
+}
+.letter2{
+	color: #4B5458;
+}
+.letter-title{
+	color: #55D9C1;
+}
+.btn-upload {
+	color: #fff;
+	background-color: #FDD61C;
+}
+.btn.btn-sm2 {
+	width: 200px;
+	margin: 10px;
+}
+.card-object{
+	margin: 20px;
+	background-color: #0069A3;
+	border-radius: 8px;
+}
+.card-object:hover{
+	opacity: 1;
+	transform: scale(1.01) translateY(-2px);
+}
+.card-title {
+	margin: 5px;
+	font-size: 1.5em;
+}
+.card-text {
+	margin: 10px
+}
+.btn-card {
+	color: #fff;
+	background-color: #FDD61C;
+}
+
+/* Nuevo */
+
+/* Hecho para poder centrar las tarjetas del inicio */
+.centrar {
+	justify-content:center;
+}
+
+/* Le da un tamaño fijo a las imagenes de las tarjetas*/
+.img-card{
+	width: 333px;
+	height: 150px;
+}
+
+/* Le da un tamaño fijo al texto de las tarjetas, hace que todas las tarjetas se vean igual en tamaño*/
+.text-card{
+ 	width: auto;
+	height: 250px;
+}
+
+.dashboard-button{
+	width: 90% !important;
+}
+
+/* Hecho para organizar el título de la factura */
+#tituloFactura{
+	margin-left: 20%;
+	margin-top: 3%;
+}
+
+.disabled {
+	pointer-events: none;
+	cursor: default;
+	opacity: 0.6;
+  }
+
+
+
+
+.botonPerfil{
+	padding-top: 25%;
+}
+
